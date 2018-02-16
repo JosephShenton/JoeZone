@@ -1,0 +1,47 @@
+# Pangea X
+
+Pangea X is a unique, feature packed offline code editor with built-in compatible servers.
+
+### Servers
+
+  - HTTP (HTML, JavaScript, CSS)
+  - FTP (File Transfer Protocol)
+  - WebDAV (Web Distributed Authoring and Versioning)
+  - PHP (PHP: Hypertext Preprocessor) (SOON)
+  - NodeJS (SOON)
+  - Python (SOON)
+
+# New Features!
+
+  - All new UNIQUE Design
+  - Bug Fixes
+  - Improved Memory Usage
+
+
+You can also:
+  - Import frameworks like jQuery, Bootstrap & Framework7 with a touch
+  - Change ports to custom ones instead of default
+
+### Default Ports
+
+Pangea X uses a few ports by default.
+
+##### Master Server
+* HTTP Server : 8080
+* Upload Server : 3940
+* FTP Server : 2121
+
+##### Extra Servers
+* WebDAV : 9789
+
+### Open Source Libraries
+
+Pangea X uses a number of open source projects to work properly:
+
+* [GCDWebServer] - HTTP Web Server, Upload Server & WebDAV Server!
+* [Highlightr] - The Syntax Highlighter based off Highlight.JS
+
+[//]: # ()
+
+   [GCDWebServer]: <https://github.com/swisspol/GCDWebServer>
+   [Highlightr]: <https://github.com/raspu/Highlightr>

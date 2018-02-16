@@ -40,8 +40,10 @@ Pangea X uses a number of open source projects to work properly:
 
 * [GCDWebServer] - HTTP Web Server, Upload Server & WebDAV Server!
 * [Highlightr] - The Syntax Highlighter based off Highlight.JS
+* [AFNetworking] - The asyncronous library used to pull this very file
 
 [//]: # ()
 
    [GCDWebServer]: <https://github.com/swisspol/GCDWebServer>
    [Highlightr]: <https://github.com/raspu/Highlightr>
+   [AFNetworking]: <https://github.com/AFNetworking/AFNetworking>

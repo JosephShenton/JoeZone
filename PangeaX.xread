@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Pangea X Updates & News</title>
+    <title>Pangea X News & Updates</title>
     <style>
         @charset "UTF-8";
         @import 'https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0-alpha2/katex.min.css';
@@ -5298,19 +5298,31 @@
         <li>Import frameworks like jQuery, Bootstrap &amp; Framework7 with a touch</li>
         <li>Change ports to custom ones instead of default</li>
     </ul>
-    <h3><a id="Default_Ports_24"></a>Default Ports</h3>
+    <h1><a id="Support_24"></a>Support</h1>
+    <h3><a id="File_Manager_26"></a>File Manager</h3>
+    <h5><a id="Go_to_previous_directory_28"></a>Go to previous directory</h5>
+    <ul>
+        <li>Swipe back</li>
+    </ul>
+    <h5><a id="Create__Delete_FilesFolders_31"></a>Create &amp; Delete Files/Folders</h5>
+    <ul>
+        <li>Delete by pressing the 3 dots on the item to delete</li>
+        <li>Create in specific folder by pressing the 3 dots on the folder</li>
+        <li>Create file/folder by clicking the + button</li>
+    </ul>
+    <h3><a id="Default_Ports_36"></a>Default Ports</h3>
     <p>Pangea X uses a few ports by default.</p>
-    <h5><a id="Master_Server_28"></a>Master Server</h5>
+    <h5><a id="Master_Server_40"></a>Master Server</h5>
     <ul>
         <li>HTTP Server : 8080</li>
         <li>Upload Server : 3940</li>
         <li>FTP Server : 2121</li>
     </ul>
-    <h5><a id="Extra_Servers_33"></a>Extra Servers</h5>
+    <h5><a id="Extra_Servers_45"></a>Extra Servers</h5>
     <ul>
         <li>WebDAV : 9789</li>
     </ul>
-    <h3><a id="Open_Source_Libraries_36"></a>Open Source Libraries</h3>
+    <h3><a id="Open_Source_Libraries_48"></a>Open Source Libraries</h3>
     <p>Pangea X uses a number of open source projects to work properly:</p>
     <ul>
         <li><a href="https://github.com/swisspol/GCDWebServer">GCDWebServer</a> - HTTP Web Server, Upload Server &amp; WebDAV Server!</li>
